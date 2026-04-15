@@ -1,6 +1,5 @@
 # iDuna — Real-Time Wearable Heart Rate Monitoring Platform
-
-> **Final Year Project** | ESP32 Firmware + Android App (Kotlin / Jetpack Compose)
+> **Final Year Project** | ESP32 Firmware + Android App (tlin / Jetpack Compose)
 
 ---
 
@@ -726,5 +725,21 @@ iDuna/
 | Display shows wrong rotation | TFT_eSPI config mismatch | Adjust `tft.setRotation()` value (0–3) |
 
 ---
+## iDuna Project Demo
+<h2 align="center">🎥 iDuna Strap Project Demo</h2>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a570b0d7-7cee-4c61-9556-3caa76a79974" controls width="600"/>
+</p>
+
+<h2 align="center">🎥 iDuna App Project Demo</h2>
+
+<p align="center">
+  <video src="
+https://github.com/user-attachments/assets/8a9f6e0f-6521-428f-a552-ead790dd2139" controls width="600"/>
+</p>
+
+
+
 
 > **Built with ❤️ by the iDuna Team — Final Year Project 2026**
