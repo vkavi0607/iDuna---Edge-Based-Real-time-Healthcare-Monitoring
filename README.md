@@ -735,8 +735,7 @@ iDuna/
 <h2 align="center">🎥 iDuna App Project Demo</h2>
 
 <p align="center">
-  <video src="
-https://github.com/user-attachments/assets/8a9f6e0f-6521-428f-a552-ead790dd2139" controls width="600"/>
+  <video src="https://github.com/user-attachments/assets/8a9f6e0f-6521-428f-a552-ead790dd2139" controls width="600"/>
 </p>
 
 
