@@ -741,4 +741,4 @@ iDuna/
 
 
 
-> **Built with ❤️ by the iDuna Team — Final Year Project 2026**
+> **Built with ❤️ by Kaviyarasu V and Chanduru D  --> Final Year Project 2026**
